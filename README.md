@@ -14,7 +14,7 @@ Time-series analysis of surface displacement.
 Support for both ASCENDING and DESCENDING satellite passes.
 
 ## 🛰️ Data Source
-This project utilizes freely available Sentinel-1 SAR data provided by the European Space Agency (ESA) via the Copernicus Open Access Hub or other public APIs such as Google Earth Engine.
+This project utilizes freely available Sentinel-1 SAR data provided by the European Space Agency (ESA) via the Copernicus Open Access Hub.
 
 ## ⚙️ Features
 Preprocessing of Sentinel-1 SAR data
